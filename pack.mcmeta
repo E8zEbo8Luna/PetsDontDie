@@ -1,10 +1,12 @@
 {
   "pack": {
     "description": "A datapack which prevents pets from dying",
+    "min_format": [71,0],
+    "max_format": [88,0]
     "pack_format": 71,
     "supported_formats": {
       "min_inclusive": 71,
-      "max_inclusive": 88
+      "max_inclusive": 80
     }
   }
 }
